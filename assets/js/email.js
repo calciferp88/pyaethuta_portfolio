@@ -23,7 +23,7 @@ function sendEmail(params){
 		alert("Please fill your Message");
 	}
 	else{
-		emailjs.send('service_lt3h5au', 'template_oo7x74w', tempParams);
+		emailjs.send('service_lt3h5au', 'template_oo7x74w', tempParams)
 		.then(function(res){
 			alert("Thanks for contacting us !");
 			document.getElementById("name").value = "";
