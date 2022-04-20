@@ -39,7 +39,7 @@
                 </div>
             </div>
         </div>
-    </header>
+    </header>               
     <!-- header -->
 
     <main>
@@ -64,8 +64,8 @@
                             <p class="small-text"><br>
                                 Full Name &nbsp;&nbsp;: &nbsp; PYAE THUTA <br>
                                 Nationality &nbsp;: &nbsp; Burmese <br>
-                                Languages : &nbsp; Burmese, English <br>
-                                Location &nbsp;&nbsp;&nbsp; &nbsp;: &nbsp; Yangon, Myanmar <br>
+                                Lanxguages : &nbsp; Burmese, English <br>
+                                Location &xnbsp;&nbsp;&nbsp; &nbsp;: &nbsp; Yangon, Myanmar <br>
                             </p>
                         </div>
                     </div>
@@ -74,8 +74,8 @@
                             <p class="large-text">Personality & Others</p>
                             <p class="small-text"><br>
                                 ENTP-A of MBTI personality type <br>
-                                Over 130 score in IQ tests approximately<br>
-                            </p>
+                                Self-motivated and excellent brainstorming skill<br>
+                            </p> 
                         </div>
                     </div>
                 </div>
@@ -92,16 +92,16 @@
             <div class="portfolios">
                 <div class="portfolio-item">
                     <div class="image">
-                        <img src="img/port1.jpg" alt="">
+                        <img src="img/jtc.png" alt="" style="object-fit: cover;">
                     </div>
                     <div class="hover-items">
-                        <h3>Project Source</h3>
+                        <h3>JTcommerce Website</h3>
                         <div class="icons">
-                            <a href="#" class="icon">
-                                <i class="fab fa-github"></i>
+                            <a href="https://jtcommerce.generate.asia/" target="_blank" class="icon">
+                               <i class="fas fa-link"></i>
                             </a>
                             <a href="#" class="icon">
-                                <i class="fab fa-behance"></i>
+                                <i class="fab fa-github"></i>
                             </a>
                             <a href="#" class="icon">
                                 <i class="fab fa-youtube"></i>
@@ -109,120 +109,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="portfolio-item">
-                    <div class="image">
-                        <img src="img/port2.jpg" alt="">
-                    </div>
-                    <div class="hover-items">
-                        <h3>Project Source</h3>
-                        <div class="icons">
-                            <a href="#" class="icon">
-                                <i class="fab fa-github"></i>
-                            </a>
-                            <a href="#" class="icon">
-                                <i class="fab fa-behance"></i>
-                            </a>
-                            <a href="#" class="icon">
-                                <i class="fab fa-youtube"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="portfolio-item">
-                    <div class="image">
-                        <img src="img/port3.jpg" alt="">
-                    </div>
-                    <div class="hover-items">
-                        <h3>Project Source</h3>
-                        <div class="icons">
-                            <a href="#" class="icon">
-                                <i class="fab fa-github"></i>
-                            </a>
-                            <a href="#" class="icon">
-                                <i class="fab fa-behance"></i>
-                            </a>
-                            <a href="#" class="icon">
-                                <i class="fab fa-youtube"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="portfolio-item">
-                    <div class="image">
-                        <img src="img/port4.jpg" alt="">
-                    </div>
-                    <div class="hover-items">
-                        <h3>Project Source</h3>
-                        <div class="icons">
-                            <a href="#" class="icon">
-                                <i class="fab fa-github"></i>
-                            </a>
-                            <a href="#" class="icon">
-                                <i class="fab fa-behance"></i>
-                            </a>
-                            <a href="#" class="icon">
-                                <i class="fab fa-youtube"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="portfolio-item">
-                    <div class="image">
-                        <img src="img/port5.jpg" alt="">
-                    </div>
-                    <div class="hover-items">
-                        <h3>Project Source</h3>
-                        <div class="icons">
-                            <a href="#" class="icon">
-                                <i class="fab fa-github"></i>
-                            </a>
-                            <a href="#" class="icon">
-                                <i class="fab fa-behance"></i>
-                            </a>
-                            <a href="#" class="icon">
-                                <i class="fab fa-youtube"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="portfolio-item">
-                    <div class="image">
-                        <img src="img/port2.jpg" alt="">
-                    </div>
-                    <div class="hover-items">
-                        <h3>Project Source</h3>
-                        <div class="icons">
-                            <a href="#" class="icon">
-                                <i class="fab fa-github"></i>
-                            </a>
-                            <a href="#" class="icon">
-                                <i class="fab fa-behance"></i>
-                            </a>
-                            <a href="#" class="icon">
-                                <i class="fab fa-youtube"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="portfolio-item">
-                    <div class="image">
-                        <img src="img/port7.jpg" alt="">
-                    </div>
-                    <div class="hover-items">
-                        <h3>Project Source</h3>
-                        <div class="icons">
-                            <a href="#" class="icon">
-                                <i class="fab fa-github"></i>
-                            </a>
-                            <a href="#" class="icon">
-                                <i class="fab fa-behance"></i>
-                            </a>
-                            <a href="#" class="icon">
-                                <i class="fab fa-youtube"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
+                
             </div>
         </section>
         <!-- timeline -->
@@ -290,19 +177,26 @@
                 </div>
             </div>
             <h4 class="stat-title">My Timeline</h4>
-            <div class="timeline">
+            <div class="timeline">   
                 <div class="timeline-item">
-                    <div class="tl-icon">
-                        <i class="fas fa-briefcase"></i>
-                    </div>
-                    <p class="tl-duration">2022 - present</p>
+                    <div class="tl-icon">   
+                        <i class="fas fa-briefcase"></i>   
+                    </div>      
+                    <p class="tl-duration">April 2022 - Present</p>
+                    <h5>Business Analyst <span> <br> Dinger </span></h5>   
+                </div>                   
+                <div class="timeline-item">
+                    <div class="tl-icon">   
+                        <i class="fas fa-briefcase"></i>   
+                    </div>      
+                    <p class="tl-duration">February 2022 - April 2022</p>
                     <h5>Fullstack Web Developer<span> <br> Myanmar Information Technology Pte. Ltd.</span></h5>   
                 </div>
-                <div class="timeline-item">
-                    <div class="tl-icon">
+                <div class="timeline-item"> 
+                    <div class="tl-icon">     
                         <i class="fas fa-briefcase"></i>
                     </div>
-                    <p class="tl-duration">2020 - 2022</p>
+                    <p class="tl-duration">2020 - 2022</p>        
                     <h5>Freelance Web developments<span> <br> undergraduated and enterprise including Generate.asia</span></h5>
                 </div>
                 <div class="timeline-item">
@@ -326,6 +220,7 @@
                     <p class="tl-duration">2019 - 2020</p>
                     <h5>Level 4 Diploma in Computing<span> <br> NCC Education</span></h5>
                 </div>
+
             </div>
         </section>
 
