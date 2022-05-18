@@ -11,6 +11,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500;600&display=swap" rel="stylesheet">
 </head>
 <body class="main-content">
 
@@ -30,7 +31,12 @@
                     </div>
                 </h1>
                 <p>
-                    A whizz at designing websites & web development in both front and back end. Highly interested in project manegement and have strong experience in software development with Agile Scrum. 
+                    An IT Business Analyst with proven technical background. 
+                    Well-versed in popular programming languages and experienced with web development projects.
+                </p>
+
+                <p style="font-family: 'Dancing Script', cursive; letter-spacing: 1px;">"Without imperfection, neither you nor I would exist"</p>
+
                 <div class="btn-con">
                     <a href="assets/pyaethuta_cv.pdf" class="main-btn">
                         <span class="btn-text">Download CV</span>
