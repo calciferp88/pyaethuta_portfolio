@@ -70,7 +70,7 @@
                             <p class="small-text"><br>
                                 Full Name &nbsp;&nbsp;: &nbsp; PYAE THUTA <br>
                                 Nationality &nbsp;: &nbsp; Burmese <br>
-                                Lanxguages : &nbsp; Burmese, English <br>
+                                Languages : &nbsp; Burmese, English <br>
                                 Location &xnbsp;&nbsp;&nbsp; &nbsp;: &nbsp; Yangon, Myanmar <br>
                             </p>
                         </div>
@@ -189,7 +189,7 @@
                         <i class="fas fa-briefcase"></i>   
                     </div>      
                     <p class="tl-duration">April 2022 - Present</p>
-                    <h5>Business Analyst <span> <br> Dinger </span></h5>   
+                    <h5>Technical Business Analyst <span> <br> Dinger </span></h5>   
                 </div>                   
                 <div class="timeline-item">
                     <div class="tl-icon">   
