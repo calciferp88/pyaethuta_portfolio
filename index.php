@@ -4,9 +4,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- SEO -->
+    <meta name="description" content="PYAE THUTA is a Burmese Youth, Web developer and IT Business Analyst. Really love to gather new knowledge and experiences in both technical and business fields.">
+    <meta name="keywords" content="Pyae Thuta, Pyae, Thuta, IT Business Analyst, Web Developer, TechTrex, Digital Solution, Burmese youth">
+    <meta name="author" content="Pyae Thuta">
+    <!-- SEO -->
     <title>I'm Pyae Thuta</title>
     <link rel="stylesheet" href="styles/styles.css">
-    <link rel="icon" type="image/x-icon" href="img/favicon.png">
+    <link rel="icon" type="image/x-icon" href="img/favicon3.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -20,11 +25,11 @@
         <div class="header-content">
             <div class="left-header">
                 <div class="h-shape"></div>
-                    <img src="img/pyaethuta.jpg" class="my-image" alt="">
+                    <img src="img/pyaethuta2.png" class="my-image" alt="">
             </div>
             <div class="right-header">
                 <h1 class="name">
-                    <img src="img/pyaethuta.jpg" class="my-image2" alt=""><br>
+                    <img src="img/pyaethuta2.png" class="my-image2" alt=""><br>
                     I'm <span>PYAE THUTA</span>
                     <div class="typing">
                       <p class="typed-text"></p> <p class="cursor">&nbsp;</p>
@@ -32,10 +37,10 @@
                 </h1>
                 <p>
                     An IT Business Analyst with proven technical background. 
-                    Well-versed in popular programming languages and experienced with web development projects.
+                    Strong experience in web development projects. Hand on familiarity with projects management and CRM tools.
                 </p>
 
-                <p style="font-family: 'Dancing Script', cursive; letter-spacing: 1px;">"Without imperfection, neither you nor I would exist"</p>
+                <p style="font-family: 'Dancing Script', cursive; letter-spacing: 1px;" class="quote">"Without imperfection, neither you nor I would exist"</p>
 
                 <div class="btn-con">
                     <a href="assets/pyaethuta_cv.pdf" class="main-btn">
@@ -58,9 +63,11 @@
                 <div class="left-about">  
                     <h4>Who am I ?</h4>
                     <p>
-                        After being graduated from University of Greenwich, UK, I started my career as a fullstack developer. Highly interested in Agile Scrum project management and my career goal is to be a senior project manager or scrum master.
+                        After being graduated from University of Greenwich, UK, I started my career as a Fullstack developer and Business Analyst. 
+                        Improving myself daily by gaining new Knowledge and skills. 
+                        Highly interested in Agile/Scrum project management and my career goal is to be a Senior Project Manager.
                          <br /> <br /> 
-                        Well-versed in popular programming languages (including PHP, MySQL, JavaScript, React JS, Firebase). Also learning IT business management(ITBM).
+                        Well-versed in popular programming languages (including Laravel, NextJs, ReactJs, MySQL, Wordpress, Magento Commerce, etc).  
                     </p>
                 </div>
                 <div class="right-about">
@@ -71,8 +78,16 @@
                                 Full Name &nbsp;&nbsp;: &nbsp; PYAE THUTA <br>
                                 Nationality &nbsp;: &nbsp; Burmese <br>
                                 Languages : &nbsp; Burmese, English <br>
-                                Location &xnbsp;&nbsp;&nbsp; &nbsp;: &nbsp; Yangon, Myanmar <br>
+                                Location &nbsp;&nbsp;&nbsp; &nbsp;: &nbsp; Yangon, Myanmar <br>
+                                
                             </p>
+
+                            <div class="highlight-gp">
+                                    <h3 class="highlight">Coding</h3>
+                                    <h3 class="highlight">Aquariums & plants</h3>
+                                    <h3 class="highlight">Books</h3>
+                                    <h3 class="highlight">Coffee Roasting</h3>
+                                </div>
                         </div>
                     </div>
                     <div class="about-item">
@@ -96,14 +111,94 @@
                 Belows are my works I've done in these years.
             </p>
             <div class="portfolios">
+                <!-- jtcommerce -->
                 <div class="portfolio-item">
                     <div class="image">
-                        <img src="img/jtc.png" alt="" style="object-fit: cover;">
+                        <img src="img/project/jtc.PNG" alt="" style="object-fit: cover;">
                     </div>
-                    <div class="hover-items">
-                        <h3>JTcommerce Website</h3>
+                    <div class="hover-items" style="display"block;">
+                        <h3 class="project-name">Jtcommerce.com</h3>
+                        <p class="project-desc">
+                            Webiste for stainless steel products distributors located in  Los Angeles, CA, United States
+                            <br>#php #bootstrap #SEO
+                        </p>
                         <div class="icons">
                             <a href="https://jtcommerce.generate.asia/" target="_blank" class="icon">
+                               <i class="fas fa-link"></i>
+                            </a>
+                            <a href="#" class="icon">
+                                <i class="fab fa-github"></i>
+                            </a>
+                            <a href="#" class="icon">
+                                <i class="fab fa-youtube"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- edubase -->
+                <div class="portfolio-item">
+                    <div class="image">
+                        <img src="img/project/edubase.PNG" alt="" style="object-fit: cover;">
+                    </div>
+                    <div class="hover-items" style="display"block;">
+                        <h3 class="project-name">Idea sharing system</h3>
+                        <p class="project-desc">
+                            Undergraduated group-project for role-based idea sharing system.
+                            <br>#reactjs #firebase #scrum
+                        </p>
+                        <div class="icons">
+                            <a href="https://edubase-d4c34.web.app/login" target="_blank" class="icon">
+                               <i class="fas fa-link"></i>
+                            </a>
+                            <a href="#" class="icon">
+                                <i class="fab fa-github"></i>
+                            </a>
+                            <a href="#" class="icon">
+                                <i class="fab fa-youtube"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- modernized -->
+                <div class="portfolio-item">
+                    <div class="image">
+                        <img src="img/project/modernize.PNG" alt="" style="object-fit: cover;">
+                    </div>
+                    <div class="hover-items" style="display"block;">
+                        <h3 class="project-name">Modernize Landing</h3>
+                        <p class="project-desc">
+                            This is just a UI practice following a tutorial and maintaing styles with Tailwind CSS.
+                            <br>#reactjs #tailwindcss #tutorial
+                        </p>
+                        <div class="icons">
+                            <a href="https://modernize.herokuapp.com/" target="_blank" class="icon">
+                               <i class="fas fa-link"></i>
+                            </a>
+                            <a href="#" class="icon">
+                                <i class="fab fa-github"></i>
+                            </a>
+                            <a href="#" class="icon">
+                                <i class="fab fa-youtube"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- culturex -->
+                <div class="portfolio-item">
+                    <div class="image">
+                        <img src="img/project/culturex.PNG" alt="" style="object-fit: cover;">
+                    </div>
+                    <div class="hover-items" style="display"block;">
+                        <h3 class="project-name">CultureX Ecommerce</h3>
+                        <p class="project-desc">
+                            Ecommerce system with stong inventory management with plus of admin panel and delivery system
+                            <br>#php #bootstrap #seo
+                        </p>
+                        <div class="icons">
+                            <a href="https://culturex.herokuapp.com/" target="_blank" class="icon">
                                <i class="fas fa-link"></i>
                             </a>
                             <a href="#" class="icon">
@@ -127,9 +222,9 @@
                 <h4 class="stat-title">Skills</h4>
                 <div class="progress-bars">
                     <div class="progress-bar">
-                        <p class="prog-title">PHP</p>
+                        <p class="prog-title">Laravel</p>
                         <div class="progress-con">
-                            <p class="prog-text">80%</p>
+                            <p class="prog-text">70%</p>
                             <div class="progress">
                                 <span class="html"></span>
                             </div>
@@ -163,9 +258,9 @@
                         </div>
                     </div>
                     <div class="progress-bar">
-                        <p class="prog-title">Project Management Knowledge</p>
+                        <p class="prog-title">Business Strategy Knowledge</p>
                         <div class="progress-con">
-                            <p class="prog-text">80%</p>
+                            <p class="prog-text">70%</p>
                             <div class="progress">
                                 <span class="node"></span>
                             </div>
@@ -189,7 +284,7 @@
                         <i class="fas fa-briefcase"></i>   
                     </div>      
                     <p class="tl-duration">April 2022 - Present</p>
-                    <h5>Technical Business Analyst <span> <br> Dinger </span></h5>   
+                    <h5>IT Business Analyst <span> <br> Dinger </span></h5>   
                 </div>                   
                 <div class="timeline-item">
                     <div class="tl-icon">   
